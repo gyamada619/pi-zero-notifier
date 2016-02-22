@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "sendgrid/sendgrid": "~4.0"
+
+    }
+}
